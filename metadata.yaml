@@ -1,0 +1,33 @@
+_repo: Two-Hundred-Sketches-Humorous-and-Grotesque_14550
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: old/orig14550-h/images/dore_cover.jpg
+creator:
+  author:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dorè, Gustave
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'French wit and humor, Pictorial'
+- !lcsh 'Caricatures and cartoons -- France'
+title: Two Hundred Sketches Humorous and Grotesque
+url: http://www.gutenberg.org/ebooks/14550
